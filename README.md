@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="left" id="ayomitideoaj-title">:wave: Hello there! I'm Ayomitide OAJ </h1>
 
 <a href="#ayomitideoaj-title">
-  <img src="https://github-readme-stats.vercel.app/api?.username=ayomitide-oaj&show_icons=true&true&theme=react&count_private=true&include_all_commits=true" alt="Ayomitide OAJ" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayomitide-oaj&show_icons=true&true&theme=react&count_private=true&include_all_commits=true" alt="Ayomitide OAJ" align="right" />
 </a>
 
 - :office: &nbsp; I'm currently working as Lead Web3 Engineer at **CapitalVotes**
