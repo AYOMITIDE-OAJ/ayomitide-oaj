@@ -59,9 +59,9 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#ayomitideoaj-tech">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+        <img src="https://www.clipartmax.com/png/full/21-219015_abou…that-your-phone-have-so-android-official-logo.png" width="48" height="48" alt="Azure" />
       </a>
-      <br>Azure
+      <br>Android
     </td>
     <td align="center" width="96">
       <a href="#ayomitideoaj-tech">
@@ -98,9 +98,9 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96"> 
       <a href="#ayomitideoaj-tech" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+        <img src="https://img.icons8.com/color/344/flutter.png" width="48" height="48" alt="C" />
       </a>
-      <br>C# Lang
+      <br>Flutter
     </td>
     <td align="center" width="96">
       <a href="#ayomitideoaj-tech" >
@@ -178,9 +178,9 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#ayomitideoaj-tech">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+        <img src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg" width="48" height="48" alt="Material UI" />
       </a>
-      <br>Material ui
+      <br>Kotlin
     </td>
     <td align="center" width="96">
       <a href="#ayomitideoaj-tech">
