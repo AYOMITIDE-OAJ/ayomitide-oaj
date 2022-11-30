@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=ayomitide-oaj&show_icons=true&true&theme=react&count_private=true&include_all_commits=true" alt="Ayomitide OAJ" align="right" />
 </a>
 
-- :office: &nbsp; I'm currently working as Lead Web3 Engineer at **CapitalVotes**
+- :office: &nbsp; I'm currently working as Mobile Web3 Software Engineer at **CapitalVotes**
 - 👯 I’m looking to collaborate on innovative web3 projects and products
-- 🔭 I’m also an android developer advocate at **[Yodo1Games]**, I build android games at leisure.
+- 🔭 I’m also an android developer advocate at **[Yodo1Games]**,
 - :speech_balloon: &nbsp; I like to talk about **Web 3.0** and **Amazing technologies**
 - :writing_hand: &nbsp; I am startup junkie! love to get my hands dirty on building and architecting from scratch.
 - :mailbox: &nbsp; Ask me about anything, I am happy to **help**
