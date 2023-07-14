@@ -17,15 +17,12 @@ Here are some ideas to get you started:
 
 <h1 align="left" id="ayomitideoaj-title">:wave: Hello there! I'm Ayomitide OAJ </h1>
 
-<a href="#ayomitideoaj-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayomitide-oaj&show_icons=true&true&theme=react&count_private=true&include_all_commits=true" alt="Ayomitide OAJ" align="right" />
-</a>
 
-- :office: &nbsp; I'm currently working as Mobile Software Engineer at **Mission.dev**
-- 👯 I’m looking to collaborate on innovative web3 projects and products
-- 🔭 I’m also an android developer advocate at **[Yodo1Games]**,
-- :speech_balloon: &nbsp; I like to talk about **Web 3.0** and **Amazing technologies**
-- :writing_hand: &nbsp; I am startup junkie! love to get my hands dirty on building and architecting from scratch.
+- :office: &nbsp; I'm currently working as Senior Software Engineer at **Mission.dev**
+- 👯 I’m looking to collaborate on innovative projects and products
+- 🔭 I was an android developer advocate at **[Yodo1Games]**,
+- :speech_balloon: &nbsp; I like to talk about Jazz music instrumentation and software engineering behind the scenes
+- :writing_hand: &nbsp; I am currently learning Kotlin Multiplatform Mobile for cross platform mobile development
 - :mailbox: &nbsp; Ask me about anything, I am happy to **help**
 - :computer: &nbsp; Connect with me on **[LinkedIn]**
 - :bucket: &nbsp; I have great open source projects on my **[Bitbucket]** repository too, check it out! 
