@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - :writing_hand: &nbsp; I am currently learning Kotlin Multiplatform Mobile for cross platform mobile development
 - :mailbox: &nbsp; Ask me about anything, I am happy to **help**
 - :computer: &nbsp; Connect with me on **[LinkedIn]**
-- :bucket: &nbsp; I have great open source projects on my **[Bitbucket]** repository too, check it out! 
+- :bucket: &nbsp; I have great open source projects on my **[Bitbucket]** and Contribute to open-source tools on ![Gitlab](https://gitlab.com/ayomitide007) , check it out! 
 - :bird: &nbsp; Let's talk more in **[Twitter]**
 
 <br>
