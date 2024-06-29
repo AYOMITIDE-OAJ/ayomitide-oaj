@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align="left" id="ayomitideoaj-title">:wave: Hello there! I'm Ayomitide OAJ </h1>
 
 
-- :office: &nbsp; I'm currently working as Principal Engineer at **weareRad.co.uk** and CTO of [Loger](https://loger.africa)
+- :office: &nbsp; I'm currently working as Principal Engineer at [RAD](https://www.wearerad.co.uk) and CTO of [Loger](https://loger.africa)
 - 👯 I’m looking to collaborate on innovative projects and products
 - 🔭 I was an senior full-stack engineer at **[Recdek]**, **[Bitrefill]**
 - :speech_balloon: &nbsp; I like to talk about Jazz music instrumentation and software engineering behind the scenes
-- :writing_hand: &nbsp; I am currently learning Kotlin Multiplatform Mobile for cross platform mobile development
+- :writing_hand: &nbsp; I am currently learning RUST
 - :mailbox: &nbsp; Ask me about anything, I am happy to **help**
 - :computer: &nbsp; Connect with me on **[LinkedIn]**
 - :bucket: &nbsp; I have great open source projects on my **[Bitbucket]** and Contribute to open-source tools on [Gitlab](https://gitlab.com/ayomitide007) , check it out! 
