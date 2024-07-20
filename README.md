@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - :writing_hand: &nbsp; I am currently learning RUST
 - :mailbox: &nbsp; Ask me about anything, I am happy to **help**
 - :computer: &nbsp; Connect with me on **[LinkedIn]**
-- :bucket: &nbsp; I have great open source projects on my **[Bitbucket]** and Contribute to open-source tools on [Gitlab](https://gitlab.com/ayomitide007) , check it out! 
+- :bucket: &nbsp; I have great open source projects on my **[Bitbucket]** and Contribute to open-source tools on [Gitlab](https://gitlab.com) , check it out! 
 - :bird: &nbsp; Let's talk more in **[Twitter]**
 
 <br>
