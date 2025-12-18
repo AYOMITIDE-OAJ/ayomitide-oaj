@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="left" id="ayomitideoaj-title">:wave: Hello there! I'm Ayomitide OAJ </h1>
 
 
-- :office: &nbsp; I'm currently working as Lead Software Engineer at [BespokeAI Stylist](https://www.bespokeaistlyis.com),
+- :office: &nbsp; I'm currently working as Lead Product Engineer at [BespokeAI Stylist](https://www.bespokeaistlyis.com),
 - 👯 I’m looking to collaborate on innovative projects and products
 - 🔭 I was an senior full-stack engineer at [Recdek](https://www.recdek.com), [Joyne](https://www.joyn.one) and [OVO](https://www.ovoenergy.com)  
 - :speech_balloon: &nbsp; I like to talk about Jazz music instrumentation and software engineering behind the scenes
